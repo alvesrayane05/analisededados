@@ -1,5 +1,4 @@
 # Análise da situação dos discentes do curso de Bacharelado em Tecnologia da Informação da UFRN
-<hr>
 
 1. Alunos:
 	* Gabriel Estevam Narciso (gabriel.estevam.narciso@gmail.com)
@@ -7,7 +6,6 @@
 
 2. Link para o vídeo da apresentação no Youtube:
 	* https://youtu.be/dZTWHz0-r78
-<hr>
 
 ## Introdução
 
